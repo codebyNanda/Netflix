@@ -17,7 +17,7 @@ Este foi mais um projeto construído através do Bootcamp HTML Web Developer da 
 - CSS3
 - Javascript
 - JQuery
-- Visual Studio Code (editor de texto)
+- Visual Studio Code 
 
 
 Deixo aqui meu agradecimento a [Digital Innovation One](https://digitalinnovation.one/ "Digital Innovation One") e o professor [Felipe Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/ "Felipe Aguiar") por me proporcionar mais um projeto maravilhoso!
